@@ -1,15 +1,9 @@
 
 /*
  * Author       : Edward Tladi
- * Student Num  : 21578198
  * Data Created : 24 September 2025
  * ====================================================================
- * Project      : AVR ADC Lab – Lab 3: Embedded Systems Design 2025
  * File         : adc.c / adc.h / main.c
- * Institution  : Tshwane University of Technology (TUT)
- * Course       : Advanced Diploma in Computer Systems Engineering
- * Module       : Embedded Systems Design (EBD117V)
- * Lab          : Lab 3 – ADC
  * Target MCU   : ATmega328P (Arduino Uno)
  * Clock        : 16 MHz
  * Compiler     : AVR-GCC
@@ -21,12 +15,12 @@
  *   value is read from a potentiometer and output to PORTB and PD0-PD1.
  *
  * Revision History :
- *   v1.0 - Initial Lab 3 implementation
+ *   v1.0 
  *
  * ====================================================================
  *
  * Copyright (c) 2025 Edward Tladi
- * All rights reserved. This work is part of Lab 3 for Embedded Systems Design (EBD117V) 2025.
+ * All rights reserved. 
  * Redistribution or use is allowed only for educational purposes within TUT.
  */
 
